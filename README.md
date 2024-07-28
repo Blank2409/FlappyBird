@@ -4,11 +4,12 @@ This repository contains a simple Flappy Bird game clone implemented in Java. Th
 
 ## Features
 
--Simple 2D graphics
--Gravity and jumping mechanics
--Randomly placed pipes
--Score tracking
--Game restart functionality
+-Simple 2D graphics                      
+-Gravity and jumping mechanics                        
+-Randomly placed pipes                            
+-Score tracking 
+-Game restart functionality                      
+
 
 ## How To Run:
 

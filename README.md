@@ -13,9 +13,9 @@ This repository contains a simple Flappy Bird game clone implemented in Java. Th
 
 ## How To Run:
 
-1.Clone the repository: git clone https://github.com/yourusername/FlappyBird.git
-2.Navigate to the project directory: cd FlappyBird
-3.Compile and run the game: javac FlappyBird.java && java FlappyBird
+1.Clone the repository: git clone https://github.com/yourusername/FlappyBird.git                      
+2.Navigate to the project directory: cd FlappyBird                                                   
+3.Compile and run the game: javac FlappyBird.java && java FlappyBird                                     
 
 ## Screenshots
 
